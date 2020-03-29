@@ -1,4 +1,4 @@
-# 2DPP
+# 2D Platformer Prototype
 A responsive 2D platformer controller prototype for Unity
 
 ![Screenie](Screenie.PNG)
